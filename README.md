@@ -8,7 +8,7 @@ Cordova-binaries repository contains plug 'n play [Cordova](http://cordova.apach
 
 **BORING IMPORTANT NOTES** : This is NOT a replacement for [Cordova CLI tools](https://github.com/apache/cordova-cli/blob/master/README.md), which is the recommended installation and setup method for Cordova based projects. This guide and code material aims to help developers with native projects that are not based on Cordova, rather Cordova is used to manipulate a WebView component in the project for example.
 
-**This is NOT the official release channel for Cordova/Phonegap nor is their any affilication with this repository to Cordova/Phonegap etc. Go [here](http://cordova.apache.org/#download) for that.**
+**This is NOT the official release channel for Cordova/Phonegap nor is there any affilication with this repository to Cordova/Phonegap etc. Go [here](http://cordova.apache.org/#download) for that.**
 
 **All code materials are subject to the [Apache license](http://www.apache.org/licenses/LICENSE-2.0).**
 
